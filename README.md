@@ -54,3 +54,7 @@ It celebrates the local innovation that already exists and turns it into a struc
 - **Cloud Storage (optional):** AWS S3 or Cloudinary for images  
 - **Payment Integration (future):** Paystack or Stripe  
 - **Map Integration (future):** Google Maps API for location display  
+
+
+
+**CommonGround — Connecting communities through shared spaces.**

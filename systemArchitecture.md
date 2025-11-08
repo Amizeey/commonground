@@ -66,4 +66,4 @@ The **Database** stores all data related to:
 
 
 
-**CommonGround — Connecting communities through shared spaces.**
+
