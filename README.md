@@ -47,7 +47,7 @@ It celebrates the local innovation that already exists and turns it into a struc
 
 ##  Technologies Used
 
-- **Frontend:** React.js, Tailwind CSS  
+- **Frontend:** React.js(for UI), Tailwind CSS(for styling) 
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Authentication:** JSON Web Tokens (JWT)  
@@ -57,4 +57,4 @@ It celebrates the local innovation that already exists and turns it into a struc
 
 
 
-**CommonGround — Connecting communities through shared spaces.**
+**CommonGround - Connecting communities through shared spaces.**
