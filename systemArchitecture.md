@@ -24,7 +24,7 @@ It will have three main interfaces:
 
 
 
-### 2. 🧠 Backend
+### 2. Backend
 
 The **Backend** handles business logic, authentication, and data communication.  
 It will include APIs for:
@@ -34,9 +34,9 @@ It will include APIs for:
 - **Listings:** Add, edit, delete, and fetch available spaces.  
 - **Notifications:** Send email or in-app messages when bookings are made or updated.
 
----
 
-### 3. 🗄️ Database Layer
+
+### 3.  Database Layer
 
 The **Database** stores all data related to:
 
@@ -46,17 +46,17 @@ The **Database** stores all data related to:
 - Bookings  
 - Reviews / Feedback
 
----
 
-### 4. ☁️ Optional Add-ons
+
+### 4.  Optional Add-ons
 
 - **Cloud Storage (AWS S3 or Cloudinary):** For storing images of spaces.  
 - **Payment Integration (Paystack or Stripe):** For handling paid bookings.  
 - **Map API (Google Maps):** To display the location of spaces.
 
----
 
-## 🔄 Data Flow Summary
+
+##  Data Flow Summary
 
 1. User logs in → sends request via frontend → backend verifies via Auth API.  
 2. User searches for spaces → backend queries the database → sends results back.  
@@ -64,6 +64,6 @@ The **Database** stores all data related to:
 4. Organization approves or rejects a request → user receives update.  
 5. Admin can view and manage all users, organizations, and bookings.
 
----
+
 
 **CommonGround — Connecting communities through shared spaces.**
